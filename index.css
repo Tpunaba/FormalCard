@@ -1,0 +1,17 @@
+.BottomTiles{
+    border: solid;
+    border-radius: 1rem;
+    border-color: black;
+}
+
+.DivMainParr{
+    border: dashed 2px; color: #B8DBD9; border-radius: 2rem; display: flex; justify-content: center; padding: 1rem; background-color: #586F7C;
+}
+
+.Text{
+    justify-self: center; padding-left: 15px; font-family: 'Courier New', Courier, monospace; font-size: 12px; line-height: 2vh; font-weight: bold;
+}
+
+.Text2{
+    justify-self: center; padding-left: 15px; font-family: 'Courier New', Courier, monospace; font-size: 13px; line-height: 2vh; font-weight: bold;
+}
